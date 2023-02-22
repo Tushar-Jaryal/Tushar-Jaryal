@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tushar-Jaryal
-- 👀 I’m interested in computers!!
-- 🌱 I’m currently learning Wordpress
-- 💞️ I’m looking to collaborate on programming projects
+- 👀 I an interested in computers!!
+- 🌱 I am currently learning about computer architecture.
+- 💞️ I am looking to collaborate on programming projects
 - 📫 You  can reach me on LinkedIn at www.linkedin.com/in/tusharjaryal
 
 <!---
